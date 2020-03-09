@@ -1,6 +1,6 @@
 # muaazpage
 This is Muaaz's  website.
-<!DOCTYPE HTML>
+
 <htmL>
 
 <TITLE> My first Page      </TITLE>
